@@ -1,1 +1,1 @@
-web: python api_model.py runserver 
+web: python api_model.py
